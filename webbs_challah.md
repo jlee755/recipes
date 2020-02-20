@@ -1,24 +1,24 @@
 # Challah recipe
 
 Mix in bowl:
-    * 3 tbs honey
-    * 2/3 c warm water - 110°F
-    * 1 + 1/2 tsp active dry yeast
+* 3 tbs honey
+* 2/3 c warm water - 110°F
+* 1 + 1/2 tsp active dry yeast
 
 Proof @ 100 ºF for 20 m.
 
 Add:
-    * 1 tsp kosher salt
-    * 1/3 c olive oil
-    * 1 egg
+* 1 tsp kosher salt
+* 1/3 c olive oil
+* 1 egg
+
 Beat in kitchenAid with beater blade.
 
 Add:
-
-    * 2.5 cups King Arthur unbleached bread flour
+* 2.5 cups King Arthur unbleached bread flour
 
 Knead with bread hook. Add & knead in as needed to make dough not sticky:
-    * 1 tablespoon bread flour
+* 1 tablespoon bread flour
 
 Rise @ 100 ºF until it doubles, ~30m, longer at other temperatures.
 
@@ -30,10 +30,10 @@ Rise @ 100 ºF until it doubles, ~20-30m, longer at other temperatures.
 
 # Glaze
 Scramble together:
-	* 1 egg white
-	* 3 tbsp sugar
-	* 1/4 c milk
-	* 1/3 c olive oil
+* 1 egg white
+* 3 tbsp sugar
+* 1/4 c milk
+* 1/3 c olive oil
 
 Baste bread.
 
